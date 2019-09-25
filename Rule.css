@@ -1,0 +1,29 @@
+Drake {
+	margin:0.5em; 
+	font-family: Verdana; 
+	display:block; 
+}
+
+title { 
+	font-size : 25px; 
+	font-weight : bold; 
+	color: #000
+}
+
+song {
+	border: 2px solid #ff0000;
+	display:block;  
+	margin:0.5em;  
+	padding:0.5em;  
+	text-align: center;
+	background-color: #A9A9A9;
+}
+
+name {
+	font-size: 20px;
+}
+
+name, artist, genre, year { 
+	display: block;
+	position: relative;
+}
